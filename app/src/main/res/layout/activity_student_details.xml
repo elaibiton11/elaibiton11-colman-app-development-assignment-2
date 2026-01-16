@@ -5,7 +5,8 @@
     android:id="@+id/main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".StudentDetailsActivity">
+    tools:context=".Stud
+    entDetailsActivity">
 
     <ImageView
         android:id="@+id/imageView"
@@ -15,7 +16,7 @@
         android:layout_marginTop="24dp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/panda" />
+        app:srcCompat="@drawable/profile" />
 
     <TextView
         android:id="@+id/student_details_activity_name_text_view"
